@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img src="src/typo_code.gif">
+    <img src="/src/typo_code.gif">
 
 
 </div>
